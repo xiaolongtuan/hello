@@ -1,8 +1,8 @@
-��װ���裺
-��װJava -> ��װAnt -> 
+﻿安装步骤：
+安装Java -> 安装Ant -> 
 
-1����װAnt
-Ant��Java��Ŀ��ͨ�õĴ���������빤�ߣ�����C/C++�е�make
-����������Java�Ŀ�ƽ̨�Լ�Ant������XML��Ϊ����ű��ķ�ʽ��Ant���Ժܷ���Ŀ�ƽ̨���뿪��
+1、安装Ant
+Ant是Java项目中通用的代码管理编译工具，类似C/C++中的make
+但是依托于Java的跨平台以及Ant本身用XML作为编译脚本的方式，Ant可以很方便的跨平台编译开发
 
-���尲װ������antĿ¼�µİ�װ�ֲ�
+具体安装方法见ant目录下的安装手册
